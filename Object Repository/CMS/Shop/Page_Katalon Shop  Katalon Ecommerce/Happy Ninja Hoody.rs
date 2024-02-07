@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Happy Ninja Hoody</name>
+   <tag></tag>
+   <elementGuidId>1acf8176-cac0-45d2-b4f2-35ae664ab8a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-27.status-publish.last.instock.product_cat-clothing.product_cat-hoodies.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > div.ellie-thumb-wrapper > a.woocommerce-LoopProduct-link.woocommerce-loop-product__link > img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div[2]/ul/li[3]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>96391a40-a780-4cbe-9595-00d64cf21236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>0a77b730-bf63-47f6-b131-6bcf4ecee3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>128bf810-07ff-4bcb-a3f1-2597eb88d37d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-300x300.jpg</value>
+      <webElementGuid>06dc5161-1b1a-45d0-94f4-915600f3e3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-woocommerce_thumbnail size-woocommerce_thumbnail</value>
+      <webElementGuid>e741a9da-de1e-4dd1-8eab-834724b8103c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-300x300.jpg 300w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-150x150.jpg 150w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-768x768.jpg 768w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-675x675.jpg 675w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-323x323.jpg 323w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-440x440.jpg 440w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-600x600.jpg 600w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-100x100.jpg 100w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/xhoodie_4_front.jpg.pagespeed.ic.ar9GHwYztM.webp 1000w</value>
+      <webElementGuid>82339924-9fec-4d4a-b41c-3d0e3dfc24bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 300px) 100vw, 300px</value>
+      <webElementGuid>4824fe5f-3db3-45f9-b415-c1bca9e07f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;columns-3&quot;]/ul[@class=&quot;products columns-3&quot;]/li[@class=&quot;product type-product post-27 status-publish last instock product_cat-clothing product_cat-hoodies has-post-thumbnail taxable shipping-taxable purchasable product-type-simple&quot;]/div[@class=&quot;ellie-thumb-wrapper&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/img[@class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot;]</value>
+      <webElementGuid>1affa361-001d-4db0-92d4-ea96d03aa101</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div[2]/ul/li[3]/div/a/img</value>
+      <webElementGuid>5c585e85-49e7-4b42-84e2-30f79b402207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-300x300.jpg')]</value>
+      <webElementGuid>768245c7-7d85-4dd4-bde6-202985acec00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a/img</value>
+      <webElementGuid>460c8525-dcc2-4a69-8fa9-a444ab75a641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cms.demo.katalon.com/wp-content/uploads/2019/08/hoodie_4_front-300x300.jpg']</value>
+      <webElementGuid>6fbbd554-4643-4793-918b-7eb9b1b7fae8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

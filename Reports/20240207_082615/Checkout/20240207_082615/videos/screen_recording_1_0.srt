@@ -1,0 +1,8 @@
+1
+00:00:00,505 --> 00:00:13,218
+1. openBrowser("https://cms.demo.katalon.com/")
+
+2
+00:00:13,250 --> 00:00:17,062
+5. click(findTestObject("CMS/Page_Katalon Shop  Katalon Ecommerce/a_Checkout"))
+

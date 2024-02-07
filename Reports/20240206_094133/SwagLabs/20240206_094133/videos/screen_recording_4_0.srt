@@ -1,0 +1,28 @@
+1
+00:00:00,015 --> 00:00:05,746
+1. openBrowser("")
+
+2
+00:00:05,756 --> 00:00:08,074
+5. navigateToUrl("https://www.saucedemo.com/")
+
+3
+00:00:08,087 --> 00:00:10,202
+9. click(findTestObject("Object Repository/Swag Labs/Page_Swag Labs/input_Swag Labs_user-name"))
+
+4
+00:00:10,224 --> 00:00:12,351
+13. setText(findTestObject("Object Repository/Swag Labs/Page_Swag Labs/input_Swag Labs_user-name"), username)
+
+5
+00:00:12,366 --> 00:00:13,673
+17. setText(findTestObject("Object Repository/Swag Labs/Page_Swag Labs/input_Swag Labs_password"), password)
+
+6
+00:00:13,692 --> 00:00:19,616
+21. click(findTestObject("Object Repository/Swag Labs/Page_Swag Labs/input_Swag Labs_login-button"))
+
+7
+00:00:19,651 --> 00:00:21,095
+25. closeBrowser()
+

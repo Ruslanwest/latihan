@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Membuat Login dan Membuat Appointment</name>
+   <name>Search Ninja</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>c0ada7d4-23e0-4404-ae4e-bc1e7eb158ad</testSuiteGuid>
+   <testSuiteGuid>bc227f3c-7fc5-4074-b813-7617f337682e</testSuiteGuid>
    <testCaseLink>
-      <guid>a9958fcf-b8e4-49a1-ba02-25a7cdb84f48</guid>
+      <guid>2805f9a2-0a45-499c-b001-48cbfa98a0de</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login Test/login</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>3abef954-087c-4bba-90cd-a9870692107e</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Make Appointment/Appointment Medicaid</testCaseId>
+      <testCaseId>Test Cases/CMS Katalon/Search Ninja</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

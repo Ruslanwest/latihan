@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Add Cart,,,,2024-02-05 14:35:12,2024-02-05 14:35:21,8.377s,FAILED
+,,,,,,,
+Test Cases/CMS Katalon/Add Cart,,,,2024-02-05 14:35:13,2024-02-05 14:35:21,8.020s,FAILED
+"openBrowser("""")",,,,2024-02-05 14:35:13,2024-02-05 14:35:18,5.062s,FAILED

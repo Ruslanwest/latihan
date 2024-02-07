@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Add Cart" time="77.906" tests="1" failures="0" errors="0">
+   <testsuite name="Add Cart" tests="1" failures="0" errors="0" time="77.906" skipped="0" timestamp="2024-02-05 11:43:28" hostname="BRI - LAPTOP-GLHGBC14" id="Test Suites/Add Cart">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Automation\\latihan_ddi\\latihan\\Reports\\20240205_114321\\Add Cart\\20240205_114321"/>
+         <property name="logFiles" value="D:\\Automation\\latihan_ddi\\latihan\\Reports\\20240205_114321\\Add Cart\\20240205_114321\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="BRI - LAPTOP-GLHGBC14"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="172.16.213.67"/>
+         <property name="sessionId" value="858fda614712d44e2735613d8115679d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/CMS Katalon/Add Cart" time="77.437" classname="Test Cases/CMS Katalon/Add Cart" status="PASSED">
+         <system-out><![CDATA[2024-02-05 11:43:29 - [TEST_CASE][PASSED] - Test Cases/CMS Katalon/Add Cart: Test Cases/CMS Katalon/Add Cart
+
+2024-02-05 11:43:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-05 11:43:30 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-05 11:43:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-05 11:43:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-05 11:43:38 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-05 11:43:38 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-05 11:43:38 - [TEST_STEP][PASSED] - navigateToUrl("https://cms.demo.katalon.com/"): Navigate to 'https://cms.demo.katalon.com/' successfully
+
+2024-02-05 11:43:44 - [MESSAGE][PASSED] - Navigate to 'https://cms.demo.katalon.com/' successfully
+
+2024-02-05 11:43:44 - [TEST_STEP][PASSED] - click(findTestObject("Page_Katalon Shop  Katalon Ecommerce/img_Sale_attachment-woocommerce_thumbnail s_432ea2")): Object: 'Object Repository/Page_Katalon Shop  Katalon Ecommerce/img_Sale_attachment-woocommerce_thumbnail s_432ea2' is clicked on
+
+2024-02-05 11:43:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Katalon Shop  Katalon Ecommerce/img_Sale_attachment-woocommerce_thumbnail s_432ea2' is clicked on
+
+2024-02-05 11:43:48 - [TEST_STEP][PASSED] - click(findTestObject("Page_Flying Ninja  Katalon Shop/button_Add to cart")): Object: 'Object Repository/Page_Flying Ninja  Katalon Shop/button_Add to cart' is clicked on
+
+2024-02-05 11:43:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Flying Ninja  Katalon Shop/button_Add to cart' is clicked on
+
+2024-02-05 11:43:53 - [TEST_STEP][PASSED] - click(findTestObject("Page_Flying Ninja  Katalon Shop/a_Cart")): Object: 'Object Repository/Page_Flying Ninja  Katalon Shop/a_Cart' is clicked on
+
+2024-02-05 11:43:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Flying Ninja  Katalon Shop/a_Cart' is clicked on
+
+2024-02-05 11:43:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Cart  Katalon Shop/a_Proceed to checkout")): Object: 'Object Repository/Page_Cart  Katalon Shop/a_Proceed to checkout' is clicked on
+
+2024-02-05 11:44:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Cart  Katalon Shop/a_Proceed to checkout' is clicked on
+
+2024-02-05 11:44:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_first_name"), "ruslan"): Text 'ruslan' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_first_name'
+
+2024-02-05 11:44:02 - [MESSAGE][PASSED] - Text 'ruslan' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_first_name'
+
+2024-02-05 11:44:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_last_name"), "permana"): Text 'permana' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_last_name'
+
+2024-02-05 11:44:04 - [MESSAGE][PASSED] - Text 'permana' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_last_name'
+
+2024-02-05 11:44:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_(optional)_billing_company"), "company"): Text 'company' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_(optional)_billing_company'
+
+2024-02-05 11:44:05 - [MESSAGE][PASSED] - Text 'company' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_(optional)_billing_company'
+
+2024-02-05 11:44:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Checkout  Katalon Shop/span_United States (US)")): Object: 'Object Repository/Page_Checkout  Katalon Shop/span_United States (US)' is clicked on
+
+2024-02-05 11:44:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Checkout  Katalon Shop/span_United States (US)' is clicked on
+
+2024-02-05 11:44:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), "indonesia"): Text 'indonesia' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:08 - [MESSAGE][PASSED] - Text 'indonesia' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:08 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:09 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_address_1"), "12"): Text '12' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_address_1'
+
+2024-02-05 11:44:11 - [MESSAGE][PASSED] - Text '12' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_address_1'
+
+2024-02-05 11:44:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_(optional)_billing_address_2"), "12"): Text '12' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_(optional)_billing_address_2'
+
+2024-02-05 11:44:13 - [MESSAGE][PASSED] - Text '12' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_(optional)_billing_address_2'
+
+2024-02-05 11:44:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_city"), "depok"): Text 'depok' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_city'
+
+2024-02-05 11:44:14 - [MESSAGE][PASSED] - Text 'depok' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_city'
+
+2024-02-05 11:44:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Checkout  Katalon Shop/span_Select an option")): Object: 'Object Repository/Page_Checkout  Katalon Shop/span_Select an option' is clicked on
+
+2024-02-05 11:44:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Checkout  Katalon Shop/span_Select an option' is clicked on
+
+2024-02-05 11:44:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), "jawa"): Text 'jawa' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:16 - [MESSAGE][PASSED] - Text 'jawa' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:16 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:17 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_postcode"), "16452"): Text '16452' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_postcode'
+
+2024-02-05 11:44:18 - [MESSAGE][PASSED] - Text '16452' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_postcode'
+
+2024-02-05 11:44:18 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_postcode"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input__billing_postcode'
+
+2024-02-05 11:44:19 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input__billing_postcode'
+
+2024-02-05 11:44:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_phone"), "085774907472"): Text '085774907472' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_phone'
+
+2024-02-05 11:44:21 - [MESSAGE][PASSED] - Text '085774907472' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_phone'
+
+2024-02-05 11:44:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_email"), "ruslan.label2@gmail.com"): Text 'ruslan.label2@gmail.com' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_email'
+
+2024-02-05 11:44:23 - [MESSAGE][PASSED] - Text 'ruslan.label2@gmail.com' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__billing_email'
+
+2024-02-05 11:44:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__ship_to_different_address")): Object: 'Object Repository/Page_Checkout  Katalon Shop/input__ship_to_different_address' is clicked on
+
+2024-02-05 11:44:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Checkout  Katalon Shop/input__ship_to_different_address' is clicked on
+
+2024-02-05 11:44:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_first_name"), "ruslan"): Text 'ruslan' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_first_name'
+
+2024-02-05 11:44:25 - [MESSAGE][PASSED] - Text 'ruslan' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_first_name'
+
+2024-02-05 11:44:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_last_name"), "permana"): Text 'permana' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_last_name'
+
+2024-02-05 11:44:27 - [MESSAGE][PASSED] - Text 'permana' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_last_name'
+
+2024-02-05 11:44:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_(optional)_shipping_company"), "company 2"): Text 'company 2' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_(optional)_shipping_company'
+
+2024-02-05 11:44:28 - [MESSAGE][PASSED] - Text 'company 2' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_(optional)_shipping_company'
+
+2024-02-05 11:44:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Checkout  Katalon Shop/span_United States (US)_1")): Object: 'Object Repository/Page_Checkout  Katalon Shop/span_United States (US)_1' is clicked on
+
+2024-02-05 11:44:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Checkout  Katalon Shop/span_United States (US)_1' is clicked on
+
+2024-02-05 11:44:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), "indonesia"): Text 'indonesia' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:31 - [MESSAGE][PASSED] - Text 'indonesia' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:31 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:32 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_address_1"), "mulqi"): Text 'mulqi' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_address_1'
+
+2024-02-05 11:44:34 - [MESSAGE][PASSED] - Text 'mulqi' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_address_1'
+
+2024-02-05 11:44:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_city"), "depok"): Text 'depok' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_city'
+
+2024-02-05 11:44:36 - [MESSAGE][PASSED] - Text 'depok' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_city'
+
+2024-02-05 11:44:36 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_city"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_city'
+
+2024-02-05 11:44:37 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_city'
+
+2024-02-05 11:44:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Checkout  Katalon Shop/span_Select an option_1")): Object: 'Object Repository/Page_Checkout  Katalon Shop/span_Select an option_1' is clicked on
+
+2024-02-05 11:44:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Checkout  Katalon Shop/span_Select an option_1' is clicked on
+
+2024-02-05 11:44:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), "jawa"): Text 'jawa' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:40 - [MESSAGE][PASSED] - Text 'jawa' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:41 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:41 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field'
+
+2024-02-05 11:44:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_postcode"), "16452"): Text '16452' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_postcode'
+
+2024-02-05 11:44:43 - [MESSAGE][PASSED] - Text '16452' is set on object 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_postcode'
+
+2024-02-05 11:44:43 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_postcode"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_postcode'
+
+2024-02-05 11:44:44 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Checkout  Katalon Shop/input__shipping_postcode'
+
+2024-02-05 11:44:46 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/CMS Katalon/Add Cart' .
+
+2024-02-05 11:44:46 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/CMS Katalon/Add Cart' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-02-05 11:43:28 - [TEST_SUITE][PASSED] - Add Cart: Test Cases/CMS Katalon/Add Cart]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

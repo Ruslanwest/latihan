@@ -1,0 +1,40 @@
+1
+00:00:00,874 --> 00:00:09,709
+1. openBrowser("")
+
+2
+00:00:09,743 --> 00:00:14,318
+5. navigateToUrl("https://www.saucedemo.com/")
+
+3
+00:00:14,337 --> 00:00:18,485
+9. click(findTestObject("Object Repository/Swag Labs/Page_Swag Labs/input_Swag Labs_user-name"))
+
+4
+00:00:18,498 --> 00:00:20,081
+13. setText(findTestObject("Object Repository/Swag Labs/Page_Swag Labs/input_Swag Labs_user-name"), username)
+
+5
+00:00:20,101 --> 00:00:21,267
+17. setText(findTestObject("Object Repository/Swag Labs/Page_Swag Labs/input_Swag Labs_password"), password)
+
+6
+00:00:21,286 --> 00:00:22,824
+21. click(findTestObject("Object Repository/Swag Labs/Page_Swag Labs/input_Swag Labs_login-button"))
+
+7
+00:00:22,840 --> 00:00:24,001
+25. waitForElementVisible(findTestObject("Object Repository/Swag Labs/Page_Swag Labs/span_Products"), 60)
+
+8
+00:00:24,018 --> 00:00:24,530
+29. actualText = getText(findTestObject("Object Repository/Swag Labs/Page_Swag Labs/span_Products"))
+
+9
+00:00:24,541 --> 00:00:24,594
+33. if (actualText.equals("Products"))
+
+10
+00:00:24,608 --> 00:00:24,665
+1. Log.info("Login berhasil")
+

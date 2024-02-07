@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Checkout,Edge Chromium 121,,,2024-02-05 11:51:41,2024-02-05 11:52:08,27.159s,PASSED
+,,,,,,,
+Test Cases/CMS Katalon/CheckOut,Edge Chromium 121,,,2024-02-05 11:51:41,2024-02-05 11:52:08,26.510s,PASSED
+"openBrowser(""https://cms.demo.katalon.com/"")",Edge Chromium 121,,,2024-02-05 11:51:43,2024-02-05 11:52:02,19.017s,PASSED
+"click(findTestObject(""CMS/Page_Katalon Shop  Katalon Ecommerce/a_Checkout""))",Edge Chromium 121,,,2024-02-05 11:52:02,2024-02-05 11:52:06,3.567s,PASSED
+Video,Edge Chromium 121,,,2024-02-05 11:52:08,2024-02-05 11:52:08,0.000s,PASSED

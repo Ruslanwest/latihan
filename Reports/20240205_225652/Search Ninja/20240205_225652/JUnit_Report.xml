@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Search Ninja" time="28.64" tests="1" failures="0" errors="0">
+   <testsuite name="Search Ninja" tests="1" failures="0" errors="0" time="28.64" skipped="0" timestamp="2024-02-05 22:57:01" hostname="BRI - 192.168.0.105" id="Test Suites/Search Ninja">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Automation\\latihan_ddi\\latihan\\Reports\\20240205_225652\\Search Ninja\\20240205_225652"/>
+         <property name="logFiles" value="D:\\Automation\\latihan_ddi\\latihan\\Reports\\20240205_225652\\Search Ninja\\20240205_225652\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="BRI - 192.168.0.105"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.0.105"/>
+         <property name="sessionId" value="a4bb882941af323008919f503b955637"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/CMS Katalon/Search Ninja" time="28.123" classname="Test Cases/CMS Katalon/Search Ninja" status="PASSED">
+         <system-out><![CDATA[2024-02-05 22:57:01 - [TEST_CASE][PASSED] - Test Cases/CMS Katalon/Search Ninja: Test Cases/CMS Katalon/Search Ninja
+
+2024-02-05 22:57:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2024-02-05 22:57:03 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-05 22:57:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-05 22:57:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2024-02-05 22:57:11 - [TEST_STEP][PASSED] - navigateToUrl("https://cms.demo.katalon.com/"): Navigate to 'https://cms.demo.katalon.com/' successfully
+
+2024-02-05 22:57:17 - [MESSAGE][PASSED] - Navigate to 'https://cms.demo.katalon.com/' successfully
+
+2024-02-05 22:57:17 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2024-02-05 22:57:18 - [MESSAGE][PASSED] - Current window maximized
+
+2024-02-05 22:57:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/CMS/Shop/Page_Katalon Shop  Katalon Ecommerce/input_Search for_s"), "ninja"): Text 'ninja' is set on object 'Object Repository/CMS/Shop/Page_Katalon Shop  Katalon Ecommerce/input_Search for_s'
+
+2024-02-05 22:57:19 - [MESSAGE][PASSED] - Text 'ninja' is set on object 'Object Repository/CMS/Shop/Page_Katalon Shop  Katalon Ecommerce/input_Search for_s'
+
+2024-02-05 22:57:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/CMS/Shop/Page_Katalon Shop  Katalon Ecommerce/i_Search_ellie-icon-search")): Object: 'Object Repository/CMS/Shop/Page_Katalon Shop  Katalon Ecommerce/i_Search_ellie-icon-search' is clicked on
+
+2024-02-05 22:57:27 - [MESSAGE][PASSED] - Object: 'Object Repository/CMS/Shop/Page_Katalon Shop  Katalon Ecommerce/i_Search_ellie-icon-search' is clicked on
+
+2024-02-05 22:57:30 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/CMS Katalon/Search Ninja' .
+
+2024-02-05 22:57:30 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/CMS Katalon/Search Ninja' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-02-05 22:57:01 - [TEST_SUITE][PASSED] - Search Ninja: Test Cases/CMS Katalon/Search Ninja]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

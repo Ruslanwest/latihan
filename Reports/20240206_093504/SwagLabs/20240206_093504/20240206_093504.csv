@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SwagLabs,Edge Chromium 121,,,06-02-2024 09:35:19,06-02-2024 09:35:38,18.937s,ERROR
+,,,,,,,
+Test Cases/Swag Labs,Edge Chromium 121,,,06-02-2024 09:35:20,06-02-2024 09:35:38,18.008s,ERROR
+"openBrowser("""")",Edge Chromium 121,,,06-02-2024 09:35:22,06-02-2024 09:35:31,9.722s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Edge Chromium 121,,,06-02-2024 09:35:31,06-02-2024 09:35:34,2.581s,PASSED
+"click(findTestObject(""Object Repository/Swag Labs/Page_Swag Labs/input_Swag Labs_user-name""))",Edge Chromium 121,,,06-02-2024 09:35:34,06-02-2024 09:35:36,1.946s,PASSED
+"setText(findTestObject(""Object Repository/Swag Labs/Page_Swag Labs/input_Swag Labs_user-name""), user - name)",Edge Chromium 121,,,06-02-2024 09:35:36,06-02-2024 09:35:36,0.174s,ERROR
+Video,Edge Chromium 121,,,06-02-2024 09:35:38,06-02-2024 09:35:38,0.002s,PASSED

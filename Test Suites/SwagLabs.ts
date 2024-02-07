@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SwagLabs</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1041096a-5ab5-484e-b354-70d367ecb610</testSuiteGuid>
+   <testCaseLink>
+      <guid>44e3ae39-dc2c-4154-a9bf-8cc2c931c1ec</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Swag Labs</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f47ad08d-6df0-4baa-84c1-001458c95cb1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/user-name</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f47ad08d-6df0-4baa-84c1-001458c95cb1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>user-name</value>
+         <variableId>d8484f4c-5e22-4849-adb7-14d07c1747bb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f47ad08d-6df0-4baa-84c1-001458c95cb1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>479a873a-9dec-41b4-9432-0f9770ed4349</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

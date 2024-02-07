@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Flying Ninja quantity_quantity-button q_3aae56</name>
+   <tag></tag>
+   <elementGuidId>c82a281d-d7d4-4226-a557-98741c7551fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.quantity-button.quantity-up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-54']/div[2]/form/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c7442b0f-9da0-43f6-aa46-f18acfabea61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quantity-button quantity-up</value>
+      <webElementGuid>c44e2d78-3959-44c5-bde0-ad18162e2db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-54&quot;)/div[@class=&quot;summary entry-summary&quot;]/form[@class=&quot;cart&quot;]/div[@class=&quot;quantity&quot;]/div[@class=&quot;quantity-nav&quot;]/div[@class=&quot;quantity-button quantity-up&quot;]</value>
+      <webElementGuid>7422cc5a-6e12-400d-8dc0-73a2fbb34c52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7b3ff08-d868-4d85-b1cb-fa9fa0f0364b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quantity-button quantity-up</value>
+      <webElementGuid>3d3ffc07-f786-4c72-84f7-84ad3736c614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-54&quot;)/div[@class=&quot;summary entry-summary&quot;]/form[@class=&quot;cart&quot;]/div[@class=&quot;quantity&quot;]/div[@class=&quot;quantity-nav&quot;]/div[@class=&quot;quantity-button quantity-up&quot;]</value>
+      <webElementGuid>f8e8370e-b702-4810-9e1d-81eb076b2473</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-54']/div[2]/form/div/div/div</value>
+      <webElementGuid>f993301b-65b4-45e4-92cd-ff7d4881d098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>e8224495-07ae-4062-abbe-05d538d69648</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

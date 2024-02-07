@@ -1,0 +1,152 @@
+1
+00:00:00,790 --> 00:00:08,746
+1. openBrowser("")
+
+2
+00:00:08,784 --> 00:00:09,164
+5. maximizeWindow()
+
+3
+00:00:09,186 --> 00:00:15,060
+9. navigateToUrl("https://cms.demo.katalon.com/")
+
+4
+00:00:15,084 --> 00:00:19,232
+13. click(findTestObject("Page_Katalon Shop  Katalon Ecommerce/img_Sale_attachment-woocommerce_thumbnail s_432ea2"))
+
+5
+00:00:19,254 --> 00:00:24,460
+17. click(findTestObject("Page_Flying Ninja  Katalon Shop/button_Add to cart"))
+
+6
+00:00:24,486 --> 00:00:28,159
+21. click(findTestObject("Page_Flying Ninja  Katalon Shop/a_Cart"))
+
+7
+00:00:28,206 --> 00:00:31,615
+25. click(findTestObject("Object Repository/Page_Cart  Katalon Shop/a_Proceed to checkout"))
+
+8
+00:00:31,631 --> 00:00:33,322
+29. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_first_name"), "ruslan")
+
+9
+00:00:33,350 --> 00:00:34,819
+33. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_last_name"), "permana")
+
+10
+00:00:34,845 --> 00:00:36,189
+37. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_(optional)_billing_company"), "company")
+
+11
+00:00:36,200 --> 00:00:36,938
+41. click(findTestObject("Object Repository/Page_Checkout  Katalon Shop/span_United States (US)"))
+
+12
+00:00:36,975 --> 00:00:38,941
+45. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), "indonesia")
+
+13
+00:00:38,966 --> 00:00:40,177
+49. sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), Keys.chord(ENTER))
+
+14
+00:00:40,199 --> 00:00:42,381
+53. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_address_1"), "12")
+
+15
+00:00:42,398 --> 00:00:44,063
+57. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_(optional)_billing_address_2"), "12")
+
+16
+00:00:44,083 --> 00:00:45,275
+61. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_city"), "depok")
+
+17
+00:00:45,283 --> 00:00:45,914
+65. click(findTestObject("Object Repository/Page_Checkout  Katalon Shop/span_Select an option"))
+
+18
+00:00:45,926 --> 00:00:47,293
+69. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), "jawa")
+
+19
+00:00:47,299 --> 00:00:47,957
+73. sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), Keys.chord(ENTER))
+
+20
+00:00:47,963 --> 00:00:49,038
+77. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_postcode"), "16452")
+
+21
+00:00:49,055 --> 00:00:49,737
+81. sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_postcode"), Keys.chord(ENTER))
+
+22
+00:00:49,755 --> 00:00:52,313
+85. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_phone"), "085774907472")
+
+23
+00:00:52,328 --> 00:00:53,689
+89. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__billing_email"), "ruslan.label2@gmail.com")
+
+24
+00:00:53,732 --> 00:00:54,665
+93. click(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__ship_to_different_address"))
+
+25
+00:00:54,687 --> 00:00:56,481
+97. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_first_name"), "ruslan")
+
+26
+00:00:56,501 --> 00:00:57,748
+101. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_last_name"), "permana")
+
+27
+00:00:57,763 --> 00:00:59,236
+105. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_(optional)_shipping_company"), "company 2")
+
+28
+00:00:59,271 --> 00:01:00,092
+109. click(findTestObject("Object Repository/Page_Checkout  Katalon Shop/span_United States (US)_1"))
+
+29
+00:01:00,102 --> 00:01:01,573
+113. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), "indonesia")
+
+30
+00:01:01,605 --> 00:01:03,174
+117. sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), Keys.chord(ENTER))
+
+31
+00:01:03,222 --> 00:01:05,543
+121. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_address_1"), "mulqi")
+
+32
+00:01:05,557 --> 00:01:07,001
+125. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_city"), "depok")
+
+33
+00:01:07,028 --> 00:01:07,901
+129. sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_city"), Keys.chord(ENTER))
+
+34
+00:01:07,931 --> 00:01:10,090
+133. click(findTestObject("Object Repository/Page_Checkout  Katalon Shop/span_Select an option_1"))
+
+35
+00:01:10,121 --> 00:01:11,526
+137. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), "jawa")
+
+36
+00:01:11,554 --> 00:01:12,428
+141. sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field"), Keys.chord(ENTER))
+
+37
+00:01:12,462 --> 00:01:13,912
+145. setText(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_postcode"), "16452")
+
+38
+00:01:13,945 --> 00:01:14,697
+149. sendKeys(findTestObject("Object Repository/Page_Checkout  Katalon Shop/input__shipping_postcode"), Keys.chord(ENTER))
+

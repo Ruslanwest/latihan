@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Search Ninja,Edge Chromium 121,,,2024-02-05 22:57:01,2024-02-05 22:57:30,28.640s,PASSED
+,,,,,,,
+Test Cases/CMS Katalon/Search Ninja,Edge Chromium 121,,,2024-02-05 22:57:01,2024-02-05 22:57:30,28.123s,PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-05 22:57:03,2024-02-05 22:57:11,8.562s,PASSED
+"navigateToUrl(""https://cms.demo.katalon.com/"")",Edge Chromium 121,,,2024-02-05 22:57:11,2024-02-05 22:57:17,6.257s,PASSED
+maximizeWindow(),Edge Chromium 121,,,2024-02-05 22:57:17,2024-02-05 22:57:18,0.328s,PASSED
+"setText(findTestObject(""Object Repository/CMS/Shop/Page_Katalon Shop  Katalon Ecommerce/input_Search for_s""), ""ninja"")",Edge Chromium 121,,,2024-02-05 22:57:18,2024-02-05 22:57:20,1.758s,PASSED
+"click(findTestObject(""Object Repository/CMS/Shop/Page_Katalon Shop  Katalon Ecommerce/i_Search_ellie-icon-search""))",Edge Chromium 121,,,2024-02-05 22:57:20,2024-02-05 22:57:27,7.840s,PASSED
+Video,Edge Chromium 121,,,2024-02-05 22:57:30,2024-02-05 22:57:30,0.002s,PASSED

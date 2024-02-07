@@ -1,0 +1,43 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Add Cart,Edge Chromium 121,,,2024-02-05 11:43:28,2024-02-05 11:44:46,1m - 17.906s,PASSED
+,,,,,,,
+Test Cases/CMS Katalon/Add Cart,Edge Chromium 121,,,2024-02-05 11:43:29,2024-02-05 11:44:46,1m - 17.437s,PASSED
+"openBrowser("""")",Edge Chromium 121,,,2024-02-05 11:43:30,2024-02-05 11:43:38,7.987s,PASSED
+maximizeWindow(),Edge Chromium 121,,,2024-02-05 11:43:38,2024-02-05 11:43:38,0.404s,PASSED
+"navigateToUrl(""https://cms.demo.katalon.com/"")",Edge Chromium 121,,,2024-02-05 11:43:38,2024-02-05 11:43:44,5.898s,PASSED
+"click(findTestObject(""Page_Katalon Shop  Katalon Ecommerce/img_Sale_attachment-woocommerce_thumbnail s_432ea2""))",Edge Chromium 121,,,2024-02-05 11:43:44,2024-02-05 11:43:48,4.173s,PASSED
+"click(findTestObject(""Page_Flying Ninja  Katalon Shop/button_Add to cart""))",Edge Chromium 121,,,2024-02-05 11:43:48,2024-02-05 11:43:53,5.225s,PASSED
+"click(findTestObject(""Page_Flying Ninja  Katalon Shop/a_Cart""))",Edge Chromium 121,,,2024-02-05 11:43:53,2024-02-05 11:43:57,3.721s,PASSED
+"click(findTestObject(""Object Repository/Page_Cart  Katalon Shop/a_Proceed to checkout""))",Edge Chromium 121,,,2024-02-05 11:43:57,2024-02-05 11:44:01,3.424s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__billing_first_name""), ""ruslan"")",Edge Chromium 121,,,2024-02-05 11:44:01,2024-02-05 11:44:02,1.719s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__billing_last_name""), ""permana"")",Edge Chromium 121,,,2024-02-05 11:44:02,2024-02-05 11:44:04,1.495s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_(optional)_billing_company""), ""company"")",Edge Chromium 121,,,2024-02-05 11:44:04,2024-02-05 11:44:05,1.351s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/span_United States (US)""))",Edge Chromium 121,,,2024-02-05 11:44:05,2024-02-05 11:44:06,0.778s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field""), ""indonesia"")",Edge Chromium 121,,,2024-02-05 11:44:06,2024-02-05 11:44:08,1.988s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field""), Keys.chord(ENTER))",Edge Chromium 121,,,2024-02-05 11:44:08,2024-02-05 11:44:09,1.232s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__billing_address_1""), ""12"")",Edge Chromium 121,,,2024-02-05 11:44:09,2024-02-05 11:44:11,2.199s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_(optional)_billing_address_2""), ""12"")",Edge Chromium 121,,,2024-02-05 11:44:11,2024-02-05 11:44:13,1.685s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__billing_city""), ""depok"")",Edge Chromium 121,,,2024-02-05 11:44:13,2024-02-05 11:44:14,1.205s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/span_Select an option""))",Edge Chromium 121,,,2024-02-05 11:44:14,2024-02-05 11:44:15,0.638s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field""), ""jawa"")",Edge Chromium 121,,,2024-02-05 11:44:15,2024-02-05 11:44:16,1.372s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field""), Keys.chord(ENTER))",Edge Chromium 121,,,2024-02-05 11:44:16,2024-02-05 11:44:17,0.664s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__billing_postcode""), ""16452"")",Edge Chromium 121,,,2024-02-05 11:44:17,2024-02-05 11:44:18,1.093s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__billing_postcode""), Keys.chord(ENTER))",Edge Chromium 121,,,2024-02-05 11:44:18,2024-02-05 11:44:19,0.696s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__billing_phone""), ""085774907472"")",Edge Chromium 121,,,2024-02-05 11:44:19,2024-02-05 11:44:21,2.570s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__billing_email""), ""ruslan.label2@gmail.com"")",Edge Chromium 121,,,2024-02-05 11:44:21,2024-02-05 11:44:23,1.404s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__ship_to_different_address""))",Edge Chromium 121,,,2024-02-05 11:44:23,2024-02-05 11:44:24,0.955s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__shipping_first_name""), ""ruslan"")",Edge Chromium 121,,,2024-02-05 11:44:24,2024-02-05 11:44:25,1.820s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__shipping_last_name""), ""permana"")",Edge Chromium 121,,,2024-02-05 11:44:25,2024-02-05 11:44:27,1.256s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_(optional)_shipping_company""), ""company 2"")",Edge Chromium 121,,,2024-02-05 11:44:27,2024-02-05 11:44:28,1.508s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/span_United States (US)_1""))",Edge Chromium 121,,,2024-02-05 11:44:28,2024-02-05 11:44:29,0.831s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field""), ""indonesia"")",Edge Chromium 121,,,2024-02-05 11:44:29,2024-02-05 11:44:31,1.503s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field""), Keys.chord(ENTER))",Edge Chromium 121,,,2024-02-05 11:44:31,2024-02-05 11:44:32,1.620s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__shipping_address_1""), ""mulqi"")",Edge Chromium 121,,,2024-02-05 11:44:32,2024-02-05 11:44:35,2.333s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__shipping_city""), ""depok"")",Edge Chromium 121,,,2024-02-05 11:44:35,2024-02-05 11:44:36,1.476s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__shipping_city""), Keys.chord(ENTER))",Edge Chromium 121,,,2024-02-05 11:44:36,2024-02-05 11:44:37,0.895s,PASSED
+"click(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/span_Select an option_1""))",Edge Chromium 121,,,2024-02-05 11:44:37,2024-02-05 11:44:39,2.190s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field""), ""jawa"")",Edge Chromium 121,,,2024-02-05 11:44:39,2024-02-05 11:44:41,1.433s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input_Themes Zone_select2-search__field""), Keys.chord(ENTER))",Edge Chromium 121,,,2024-02-05 11:44:41,2024-02-05 11:44:41,0.905s,PASSED
+"setText(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__shipping_postcode""), ""16452"")",Edge Chromium 121,,,2024-02-05 11:44:41,2024-02-05 11:44:43,1.483s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Checkout  Katalon Shop/input__shipping_postcode""), Keys.chord(ENTER))",Edge Chromium 121,,,2024-02-05 11:44:43,2024-02-05 11:44:44,0.752s,PASSED
+Video,Edge Chromium 121,,,2024-02-05 11:44:46,2024-02-05 11:44:46,0.011s,PASSED

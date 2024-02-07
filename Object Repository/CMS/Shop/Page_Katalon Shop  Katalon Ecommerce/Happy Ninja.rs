@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Happy Ninja</name>
+   <tag></tag>
+   <elementGuidId>87d59369-8564-4663-b8e7-7dfdd6dac84b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-26.status-publish.instock.product_cat-clothing.product_cat-t-shirts.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > div.ellie-thumb-wrapper > a.woocommerce-LoopProduct-link.woocommerce-loop-product__link > img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div[2]/ul/li[2]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8e64d833-cbe6-4520-851a-2f85e411451c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>b69aa7ac-7d4f-4938-bdc3-64111a7f7db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>95af94ff-5d89-4e5f-b5b9-459ac90ab3c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-300x300.jpg</value>
+      <webElementGuid>a048cc43-02e6-4ea6-8844-35c8324be4c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-woocommerce_thumbnail size-woocommerce_thumbnail</value>
+      <webElementGuid>5b44d1da-fd3a-49f9-84a9-f10426e7fba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-300x300.jpg 300w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-150x150.jpg 150w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-768x768.jpg 768w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-675x675.jpg 675w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-323x323.jpg 323w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-440x440.jpg 440w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-600x600.jpg 600w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-100x100.jpg 100w, https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front.jpg 1000w</value>
+      <webElementGuid>992b7ffd-7fc3-424b-bf88-b4c05b569ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 300px) 100vw, 300px</value>
+      <webElementGuid>192ae6dc-fab0-4c74-8473-05181aeb696e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;columns-3&quot;]/ul[@class=&quot;products columns-3&quot;]/li[@class=&quot;product type-product post-26 status-publish instock product_cat-clothing product_cat-t-shirts has-post-thumbnail taxable shipping-taxable purchasable product-type-simple&quot;]/div[@class=&quot;ellie-thumb-wrapper&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/img[@class=&quot;attachment-woocommerce_thumbnail size-woocommerce_thumbnail&quot;]</value>
+      <webElementGuid>2e0209c2-be55-4300-a341-a86c1d3fd538</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div[2]/ul/li[2]/div/a/img</value>
+      <webElementGuid>645c0bb0-a8c8-4e0e-aa1b-54872aa3cd1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-300x300.jpg')]</value>
+      <webElementGuid>ca79290e-c360-4eb8-a1e4-10cc0e99d905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a/img</value>
+      <webElementGuid>f937c823-febf-470c-b704-8302fce4bf1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cms.demo.katalon.com/wp-content/uploads/2019/08/T_7_front-300x300.jpg']</value>
+      <webElementGuid>e4475b18-470f-4bdc-8715-67b5e16ddd41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Checkout" time="27.159" tests="1" failures="0" errors="0">
+   <testsuite name="Checkout" tests="1" failures="0" errors="0" time="27.159" skipped="0" timestamp="2024-02-05 11:51:41" hostname="BRI - LAPTOP-GLHGBC14" id="Test Suites/Checkout">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Automation\\latihan_ddi\\latihan\\Reports\\20240205_115129\\Checkout\\20240205_115129"/>
+         <property name="logFiles" value="D:\\Automation\\latihan_ddi\\latihan\\Reports\\20240205_115129\\Checkout\\20240205_115129\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="BRI - LAPTOP-GLHGBC14"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="172.16.213.67"/>
+         <property name="sessionId" value="4a767893a857c756dd40df6bf4293cf1"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/CMS Katalon/CheckOut" time="26.51" classname="Test Cases/CMS Katalon/CheckOut" status="PASSED">
+         <system-out><![CDATA[2024-02-05 11:51:41 - [TEST_CASE][PASSED] - Test Cases/CMS Katalon/CheckOut: Test Cases/CMS Katalon/CheckOut
+
+2024-02-05 11:51:43 - [TEST_STEP][PASSED] - openBrowser("https://cms.demo.katalon.com/"): Browser is opened with url: 'https://cms.demo.katalon.com/'
+
+2024-02-05 11:51:44 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2024-02-05 11:51:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-02-05 11:52:02 - [MESSAGE][PASSED] - Browser is opened with url: 'https://cms.demo.katalon.com/'
+
+2024-02-05 11:52:02 - [TEST_STEP][PASSED] - click(findTestObject("CMS/Page_Katalon Shop  Katalon Ecommerce/a_Checkout")): Object: 'Object Repository/CMS/Page_Katalon Shop  Katalon Ecommerce/a_Checkout' is clicked on
+
+2024-02-05 11:52:06 - [MESSAGE][PASSED] - Object: 'Object Repository/CMS/Page_Katalon Shop  Katalon Ecommerce/a_Checkout' is clicked on
+
+2024-02-05 11:52:08 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/CMS Katalon/CheckOut' .
+
+2024-02-05 11:52:08 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/CMS Katalon/CheckOut' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-02-05 11:51:41 - [TEST_SUITE][PASSED] - Checkout: Test Cases/CMS Katalon/CheckOut]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
