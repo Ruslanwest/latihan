@@ -4,8 +4,10 @@
    <name>latihan</name>
    <tag></tag>
    <UUID>33e5ee09-7aa7-45d6-be14-8828ea30e621</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Automation\latihan_ddi\latihan\latihan.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
